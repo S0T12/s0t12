@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on blog project<br>👯 I’m looking to collaborate on...<br>🤝 I’m looking for help with pull requests for my projects<br>🌱 I’m currently learning nest.js<br>💬 Ask me about...<br>⚡️ Fun fact...
+🔭 I’m currently working on blog and chatFlow projects<br>👯 I’m looking to collaborate on...<br>🤝 I’m looking for help with pull requests for my projects<br>🌱 I’m currently learning nest.js<br>💬 Ask me about...<br>⚡️ Fun fact...
 
 
 ## 🌐 Socials:
